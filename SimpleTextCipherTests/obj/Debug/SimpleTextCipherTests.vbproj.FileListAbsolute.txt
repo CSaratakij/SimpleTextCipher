@@ -1,0 +1,12 @@
+C:\Users\Chatchai\Desktop\MyProgramProjects\VB.Net\SimpleTextCipher\SimpleTextCipherTests\bin\Debug\SimpleTextCipherTests.dll
+C:\Users\Chatchai\Desktop\MyProgramProjects\VB.Net\SimpleTextCipher\SimpleTextCipherTests\bin\Debug\SimpleTextCipherTests.pdb
+C:\Users\Chatchai\Desktop\MyProgramProjects\VB.Net\SimpleTextCipher\SimpleTextCipherTests\bin\Debug\SimpleTextCipherTests.xml
+C:\Users\Chatchai\Desktop\MyProgramProjects\VB.Net\SimpleTextCipher\SimpleTextCipherTests\bin\Debug\SimpleTextCipher.exe
+C:\Users\Chatchai\Desktop\MyProgramProjects\VB.Net\SimpleTextCipher\SimpleTextCipherTests\bin\Debug\SimpleTextCipher.pdb
+C:\Users\Chatchai\Desktop\MyProgramProjects\VB.Net\SimpleTextCipher\SimpleTextCipherTests\bin\Debug\SimpleTextCipher.xml
+C:\Users\Chatchai\Desktop\MyProgramProjects\VB.Net\SimpleTextCipher\SimpleTextCipherTests\obj\Debug\SimpleTextCipherTests.vbprojResolveAssemblyReference.cache
+C:\Users\Chatchai\Desktop\MyProgramProjects\VB.Net\SimpleTextCipher\SimpleTextCipherTests\obj\Debug\SimpleTextCipherTests.Resources.resources
+C:\Users\Chatchai\Desktop\MyProgramProjects\VB.Net\SimpleTextCipher\SimpleTextCipherTests\obj\Debug\SimpleTextCipherTests.vbproj.GenerateResource.Cache
+C:\Users\Chatchai\Desktop\MyProgramProjects\VB.Net\SimpleTextCipher\SimpleTextCipherTests\obj\Debug\SimpleTextCipherTests.dll
+C:\Users\Chatchai\Desktop\MyProgramProjects\VB.Net\SimpleTextCipher\SimpleTextCipherTests\obj\Debug\SimpleTextCipherTests.xml
+C:\Users\Chatchai\Desktop\MyProgramProjects\VB.Net\SimpleTextCipher\SimpleTextCipherTests\obj\Debug\SimpleTextCipherTests.pdb

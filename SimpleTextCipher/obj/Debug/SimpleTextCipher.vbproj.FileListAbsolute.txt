@@ -1,0 +1,14 @@
+C:\Users\Chatchai\Desktop\MyProgramProjects\VB.Net\SimpleTextCipher\SimpleTextCipher\bin\Debug\SimpleTextCipher.exe.config
+C:\Users\Chatchai\Desktop\MyProgramProjects\VB.Net\SimpleTextCipher\SimpleTextCipher\bin\Debug\SimpleTextCipher.exe
+C:\Users\Chatchai\Desktop\MyProgramProjects\VB.Net\SimpleTextCipher\SimpleTextCipher\bin\Debug\SimpleTextCipher.pdb
+C:\Users\Chatchai\Desktop\MyProgramProjects\VB.Net\SimpleTextCipher\SimpleTextCipher\bin\Debug\SimpleTextCipher.xml
+C:\Users\Chatchai\Desktop\MyProgramProjects\VB.Net\SimpleTextCipher\SimpleTextCipher\obj\Debug\SimpleTextCipher.MainForm.resources
+C:\Users\Chatchai\Desktop\MyProgramProjects\VB.Net\SimpleTextCipher\SimpleTextCipher\obj\Debug\SimpleTextCipher.Resources.resources
+C:\Users\Chatchai\Desktop\MyProgramProjects\VB.Net\SimpleTextCipher\SimpleTextCipher\obj\Debug\SimpleTextCipher.vbproj.GenerateResource.Cache
+C:\Users\Chatchai\Desktop\MyProgramProjects\VB.Net\SimpleTextCipher\SimpleTextCipher\obj\Debug\SimpleTextCipher.exe
+C:\Users\Chatchai\Desktop\MyProgramProjects\VB.Net\SimpleTextCipher\SimpleTextCipher\obj\Debug\SimpleTextCipher.xml
+C:\Users\Chatchai\Desktop\MyProgramProjects\VB.Net\SimpleTextCipher\SimpleTextCipher\obj\Debug\SimpleTextCipher.pdb
+C:\Users\Chatchai\Desktop\MyProgramProjects\VB.Net\SimpleTextCipher\SimpleTextCipher\obj\Debug\SimpleTextCipher.EncryptionForm.resources
+C:\Users\Chatchai\Desktop\MyProgramProjects\VB.Net\SimpleTextCipher\SimpleTextCipher\obj\Debug\SimpleTextCipher.DecryptionForm.resources
+C:\Users\Chatchai\Desktop\MyProgramProjects\VB.Net\SimpleTextCipher\SimpleTextCipher\obj\Debug\SimpleTextCipher.AboutForm.resources
+C:\Users\Chatchai\Desktop\MyProgramProjects\VB.Net\SimpleTextCipher\SimpleTextCipher\obj\Debug\SimpleTextCipher.vbprojResolveAssemblyReference.cache
