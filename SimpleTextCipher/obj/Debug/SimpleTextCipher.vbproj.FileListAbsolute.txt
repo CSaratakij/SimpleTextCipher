@@ -26,4 +26,5 @@ C:\Users\Gende\Documents\GitHub\SimpleTextCipher\SimpleTextCipher\obj\Debug\Simp
 C:\Users\Gende\Documents\GitHub\SimpleTextCipher\SimpleTextCipher\obj\Debug\SimpleTextCipher.vbproj.GenerateResource.Cache
 C:\Users\Gende\Documents\GitHub\SimpleTextCipher\SimpleTextCipher\obj\Debug\SimpleTextCipher.exe
 C:\Users\Gende\Documents\GitHub\SimpleTextCipher\SimpleTextCipher\obj\Debug\SimpleTextCipher.pdb
-C:\Users\Gende\Documents\GitHub\SimpleTextCipher\SimpleTextCipher\obj\Debug\SimpleTextCipher.HowToUseEncryptionForm.resources
+C:\Users\Gende\Documents\GitHub\SimpleTextCipher\SimpleTextCipher\obj\Debug\SimpleTextCipher.HowToDecryptionForm.resources
+C:\Users\Gende\Documents\GitHub\SimpleTextCipher\SimpleTextCipher\obj\Debug\SimpleTextCipher.HowToEncryptionForm.resources

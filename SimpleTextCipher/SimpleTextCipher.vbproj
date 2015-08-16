@@ -91,10 +91,16 @@
     <Compile Include="Form\EncryptionForm.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form\HowToUseEncryptionForm.Designer.vb">
-      <DependentUpon>HowToUseEncryptionForm.vb</DependentUpon>
+    <Compile Include="Form\HowToDecryptionForm.Designer.vb">
+      <DependentUpon>HowToDecryptionForm.vb</DependentUpon>
     </Compile>
-    <Compile Include="Form\HowToUseEncryptionForm.vb">
+    <Compile Include="Form\HowToDecryptionForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\HowToEncryptionForm.Designer.vb">
+      <DependentUpon>HowToEncryptionForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\HowToEncryptionForm.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form\MainForm.vb">
@@ -130,8 +136,11 @@
     <EmbeddedResource Include="Form\EncryptionForm.resx">
       <DependentUpon>EncryptionForm.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form\HowToUseEncryptionForm.resx">
-      <DependentUpon>HowToUseEncryptionForm.vb</DependentUpon>
+    <EmbeddedResource Include="Form\HowToDecryptionForm.resx">
+      <DependentUpon>HowToDecryptionForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\HowToEncryptionForm.resx">
+      <DependentUpon>HowToEncryptionForm.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form\MainForm.resx">
       <DependentUpon>MainForm.vb</DependentUpon>
