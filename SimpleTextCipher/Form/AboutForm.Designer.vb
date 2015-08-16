@@ -27,6 +27,7 @@ Partial Class AboutForm
         Me.Label3 = New System.Windows.Forms.Label()
         Me.Label4 = New System.Windows.Forms.Label()
         Me.Label5 = New System.Windows.Forms.Label()
+        Me.lblOriginalSourceCode = New System.Windows.Forms.Label()
         Me.SuspendLayout()
         '
         'Label1
@@ -45,7 +46,7 @@ Partial Class AboutForm
         Me.Label2.AutoSize = True
         Me.Label2.Font = New System.Drawing.Font("Microsoft Sans Serif", 24.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label2.ForeColor = System.Drawing.SystemColors.ControlDarkDark
-        Me.Label2.Location = New System.Drawing.Point(224, 128)
+        Me.Label2.Location = New System.Drawing.Point(222, 151)
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(113, 37)
         Me.Label2.TabIndex = 1
@@ -56,39 +57,51 @@ Partial Class AboutForm
         Me.Label3.AutoSize = True
         Me.Label3.Font = New System.Drawing.Font("Microsoft Sans Serif", 24.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label3.ForeColor = System.Drawing.SystemColors.ControlDarkDark
-        Me.Label3.Location = New System.Drawing.Point(395, 353)
+        Me.Label3.Location = New System.Drawing.Point(193, 94)
         Me.Label3.Name = "Label3"
-        Me.Label3.Size = New System.Drawing.Size(178, 37)
+        Me.Label3.Size = New System.Drawing.Size(176, 37)
         Me.Label3.TabIndex = 4
-        Me.Label3.Text = "Version 1.0"
+        Me.Label3.Text = "Version 1.1"
         '
         'Label4
         '
         Me.Label4.AutoSize = True
         Me.Label4.Font = New System.Drawing.Font("Microsoft Sans Serif", 26.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label4.ForeColor = System.Drawing.Color.SteelBlue
-        Me.Label4.Location = New System.Drawing.Point(164, 183)
+        Me.Label4.Location = New System.Drawing.Point(82, 201)
         Me.Label4.Name = "Label4"
-        Me.Label4.Size = New System.Drawing.Size(224, 39)
+        Me.Label4.Size = New System.Drawing.Size(396, 39)
         Me.Label4.TabIndex = 5
-        Me.Label4.Text = "Jade Thavisri"
+        Me.Label4.Text = "Jade Thavisri (Designer)"
         '
         'Label5
         '
         Me.Label5.AutoSize = True
         Me.Label5.Font = New System.Drawing.Font("Microsoft Sans Serif", 26.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label5.ForeColor = System.Drawing.Color.SteelBlue
-        Me.Label5.Location = New System.Drawing.Point(135, 244)
+        Me.Label5.Location = New System.Drawing.Point(68, 266)
         Me.Label5.Name = "Label5"
-        Me.Label5.Size = New System.Drawing.Size(299, 39)
+        Me.Label5.Size = New System.Drawing.Size(426, 39)
         Me.Label5.TabIndex = 6
-        Me.Label5.Text = "Chatchai Saratakij"
+        Me.Label5.Text = "Chatchai Saratakij (Coder)"
+        '
+        'lblOriginalSourceCode
+        '
+        Me.lblOriginalSourceCode.AutoSize = True
+        Me.lblOriginalSourceCode.Font = New System.Drawing.Font("Microsoft Sans Serif", 24.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lblOriginalSourceCode.ForeColor = System.Drawing.Color.Maroon
+        Me.lblOriginalSourceCode.Location = New System.Drawing.Point(116, 326)
+        Me.lblOriginalSourceCode.Name = "lblOriginalSourceCode"
+        Me.lblOriginalSourceCode.Size = New System.Drawing.Size(332, 37)
+        Me.lblOriginalSourceCode.TabIndex = 7
+        Me.lblOriginalSourceCode.Text = "[Original SourceCode]"
         '
         'AboutForm
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(585, 399)
+        Me.Controls.Add(Me.lblOriginalSourceCode)
         Me.Controls.Add(Me.Label5)
         Me.Controls.Add(Me.Label4)
         Me.Controls.Add(Me.Label3)
@@ -106,4 +119,5 @@ Partial Class AboutForm
     Friend WithEvents Label3 As System.Windows.Forms.Label
     Friend WithEvents Label4 As System.Windows.Forms.Label
     Friend WithEvents Label5 As System.Windows.Forms.Label
+    Friend WithEvents lblOriginalSourceCode As Label
 End Class
