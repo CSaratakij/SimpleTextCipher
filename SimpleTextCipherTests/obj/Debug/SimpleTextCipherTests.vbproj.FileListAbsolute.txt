@@ -10,3 +10,16 @@ C:\Users\Chatchai\Desktop\MyProgramProjects\VB.Net\SimpleTextCipher\SimpleTextCi
 C:\Users\Chatchai\Desktop\MyProgramProjects\VB.Net\SimpleTextCipher\SimpleTextCipherTests\obj\Debug\SimpleTextCipherTests.dll
 C:\Users\Chatchai\Desktop\MyProgramProjects\VB.Net\SimpleTextCipher\SimpleTextCipherTests\obj\Debug\SimpleTextCipherTests.xml
 C:\Users\Chatchai\Desktop\MyProgramProjects\VB.Net\SimpleTextCipher\SimpleTextCipherTests\obj\Debug\SimpleTextCipherTests.pdb
+C:\Users\Gende\Documents\GitHub\SimpleTextCipher\SimpleTextCipherTests\bin\Debug\SimpleTextCipherTests.dll
+C:\Users\Gende\Documents\GitHub\SimpleTextCipher\SimpleTextCipherTests\bin\Debug\SimpleTextCipherTests.pdb
+C:\Users\Gende\Documents\GitHub\SimpleTextCipher\SimpleTextCipherTests\bin\Debug\SimpleTextCipherTests.xml
+C:\Users\Gende\Documents\GitHub\SimpleTextCipher\SimpleTextCipherTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Gende\Documents\GitHub\SimpleTextCipher\SimpleTextCipherTests\bin\Debug\SimpleTextCipher.exe
+C:\Users\Gende\Documents\GitHub\SimpleTextCipher\SimpleTextCipherTests\bin\Debug\SimpleTextCipher.pdb
+C:\Users\Gende\Documents\GitHub\SimpleTextCipher\SimpleTextCipherTests\bin\Debug\SimpleTextCipher.xml
+C:\Users\Gende\Documents\GitHub\SimpleTextCipher\SimpleTextCipherTests\obj\Debug\SimpleTextCipherTests.vbprojResolveAssemblyReference.cache
+C:\Users\Gende\Documents\GitHub\SimpleTextCipher\SimpleTextCipherTests\obj\Debug\SimpleTextCipherTests.Resources.resources
+C:\Users\Gende\Documents\GitHub\SimpleTextCipher\SimpleTextCipherTests\obj\Debug\SimpleTextCipherTests.vbproj.GenerateResource.Cache
+C:\Users\Gende\Documents\GitHub\SimpleTextCipher\SimpleTextCipherTests\obj\Debug\SimpleTextCipherTests.dll
+C:\Users\Gende\Documents\GitHub\SimpleTextCipher\SimpleTextCipherTests\obj\Debug\SimpleTextCipherTests.xml
+C:\Users\Gende\Documents\GitHub\SimpleTextCipher\SimpleTextCipherTests\obj\Debug\SimpleTextCipherTests.pdb
